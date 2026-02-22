@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+groq
+huggingface-hub
+requests
+pgvector
+sentence-transformers
+python-jose[cryptography]
+bcrypt
+python-multipart
